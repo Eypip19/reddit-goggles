@@ -1,0 +1,6 @@
+   ! name: No Reddit
+   ! description: Hides Reddit from my results
+   ! public: false
+   ! author: your-github-username
+   $discard,site=reddit.com
+   $discard,site=redd.it
