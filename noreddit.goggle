@@ -1,6 +1,7 @@
-   ! name: No Reddit
-   ! description: Hides Reddit from my results
-   ! public: false
-   ! author: your-github-username
-   $discard,site=reddit.com
-   $discard,site=redd.it
+! name: No Reddit
+! description: Hides Reddit from my results
+! public: false
+! author: Eypip19
+! avatar: #FF4500
+$discard,site=reddit.com
+$discard,site=redd.it
